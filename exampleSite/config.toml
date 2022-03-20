@@ -42,6 +42,7 @@ icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:example@example.com"
 
+
 [menu]
 
   [[menu.main]]
