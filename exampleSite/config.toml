@@ -18,7 +18,7 @@ sectionPagesMenu = "main"
 [params]
 
 [params.theme]
-palette = "gruvbox-dark"
+palette = "solarized-dark"
 mode = "dark-mode"
 
 # Sidebar: about/bio
@@ -41,11 +41,6 @@ url = "https://github.com/joeroe/risotto"
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:example@example.com"
-
-[[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
 
 [menu]
 
