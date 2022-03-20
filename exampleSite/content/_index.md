@@ -1,19 +1,20 @@
-# risotto
+# risotto but solarized
 
 risotto is a minimalist, responsive [hugo](https://gohugo.io) theme inspired by terminal ricing aesthetics.
+
 
 ## Install
 
 The easiest way to install the theme is to clone this repository into your site's `themes` directory:
 
 ```shell
-git clone https://github.com/joeroe/risotto themes/risotto
+git clone https://github.com/Draconis-25/risotto-solarized.git themes/risotto
 ```
 
 If your site is already a git repository, you can add the theme as a submodule instead:
 
 ```shell
-git submodule add https://github.com/joeroe/risotto.git themes/risotto
+git submodule add https://github.com/Draconis-25/risotto-solarized.git themes/risotto
 ```
 
 ## Configure
